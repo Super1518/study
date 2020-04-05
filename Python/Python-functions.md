@@ -194,3 +194,6 @@ print(fact(20))
 # 2432902008176640000
 ```
 所有的递归函数都可以用循环来实现，但是循环的逻辑没有递归清晰。使用递归函数容易引起内存溢出，应谨慎使用递归函数。
+
+## 本节思维导图
+![](https://raw.githubusercontent.com/keinYe/study/master/MindNode/Python/Python-functions.png)

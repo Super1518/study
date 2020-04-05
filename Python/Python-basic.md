@@ -627,5 +627,5 @@ China = 1
 Korea = 3
 ```
 
-## 总结
+## 本节思维导图
 ![](https://raw.githubusercontent.com/keinYe/study/master/MindNode/Python/Python-basic.png)

@@ -116,4 +116,7 @@ mymodule
 
 ```_xx``` 和 ```__xx``` 只有在名称前有 ```_``` 的变量和函数称为私有变量和函数，不应该被直接引用，
 
-> Python 本身并没有私有变量和函数的概念，解释器本身并能阻止你访问 ```_xx``` 和 ```__xx``` 这样的变量和函数，这只是一种约定。
+> Python 本身并没有私有变量和函数的概念，解释器本身并不能阻止你访问 ```_xx``` 和 ```__xx``` 这样的变量和函数，这只是一种约定。
+
+## 本节思维导图
+![](https://raw.githubusercontent.com/keinYe/study/master/MindNode/Python/Python-module.png)
